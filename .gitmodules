@@ -1,0 +1,3 @@
+[submodule "submodlab-submod1"]
+	path = submodlab-submod1
+	url = git@github.com:ThomasCampbellBBC/submodlab-submod1.git
